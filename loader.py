@@ -1,10 +1,7 @@
 from scipy.io.wavfile import read as wavread
 import numpy as np
-
 import tensorflow as tf
-
 import sys
-
 
 def decode_audio(fp, fs=None, num_channels=1, normalize=False, fast_wav=False):
   """Decodes audio file paths into 32-bit floating point vectors.
