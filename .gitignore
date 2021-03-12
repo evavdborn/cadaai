@@ -3,5 +3,6 @@
 *.ipynb_checkpoints
 *.wav
 *.tar.gz
+desktop.ini
 train
 web/ckpts
