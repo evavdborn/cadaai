@@ -1,3 +1,6 @@
+For a Google Colab version using the cloned repo with Git lfs files, see: https://colab.research.google.com/drive/1RrHdKdTy8w4Rw-v_RWkt7sftM_2IFGzl#scrollTo=QJj_cxO6fCgy
+For a Google Colab version using the cloned repo (wavegan) without Git lfs files, instead saved data on gdrive, see: https://colab.research.google.com/drive/1NKJ9cW6eVvuXCLhMlF8NJVE5Xrtuxbt3
+
 # WaveGAN (v2)
 
 Official implementation of **WaveGAN**, a machine learning algorithm which learns to generate raw audio waveforms.
